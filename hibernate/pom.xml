@@ -14,7 +14,7 @@
   </modules>
 
   <properties>
-    <hibernateVersion>5.2.13.Final</hibernateVersion>
+    <hibernateVersion>5.4.24.Final</hibernateVersion>
   </properties>
 
   <dependencyManagement>
